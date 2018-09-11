@@ -7,7 +7,7 @@
  <body>
 
   <ul>
-   <li><img src="https://upload.wikimedia.org/wikipedia/ru/thumb/f/f9/Film_2567_03.jpg/267px-Film_2567_03.jpg"<a href="http://www.mockupdownload.ru/downloads/category/vizitnye-kartochki/page/5/">ссылка</a></li>
+   <li><img src="https://upload.wikimedia.org/wikipedia/ru/thumb/f/f9/Film_2567_03.jpg/267px-Film_2567_03.jpg"><a href="http://www.mockupdownload.ru/downloads/category/vizitnye-kartochki/page/5/">ссылка</a></li>
    <li><a href="URL">http://www.mockupdownload.ru/downloads/category/vizitnye-kartochki/page/5/</a></li>
   </ul>
 
